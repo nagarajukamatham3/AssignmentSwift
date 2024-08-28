@@ -121,8 +121,8 @@
 			isa = PBXGroup;
 			children = (
 				3FF997812C7F5B47005404E0 /* HomeScreen */,
-				3FF997802C7F5B31005404E0 /* Main */,
 				3FF997662C7F007F005404E0 /* NetworkLayer */,
+				3FF997802C7F5B31005404E0 /* Main */,
 				3FF997822C7F5F4F005404E0 /* Constants */,
 				3FF9973C2C7EFBDD005404E0 /* Assets.xcassets */,
 				3FF9973E2C7EFBDD005404E0 /* Preview Content */,
